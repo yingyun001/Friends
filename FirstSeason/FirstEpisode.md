@@ -9,6 +9,7 @@ The Pilot: 处女秀
 Monica: There's nothing to tell! He's just some guy I work with!
 
 Joey: C'mon, you're going out with the guy! There's gotta be something wrong with him!
+
 ---
 1. <span style="color:red">C'mon</span>: 
    * contract word of 'Come on';
@@ -22,6 +23,7 @@ Joey: C'mon, you're going out with the guy! There's gotta be something wrong wit
 ---
 
 Chandler: All right Joey, be nice.  So does he have a hump? A hump and a hairpiece?
+
 ---
 5. hairpiect: N-COUNT A hairpiece is a piece of false hair that some people wear on their head if they are bald or if they want to make their own hair seem longer or thicker. 
 
@@ -32,15 +34,17 @@ Chandler: All right Joey, be nice.  So does he have a hump? A hump and a hairpie
 8. bump: N-COUNT A bump is a minor injury or swelling that you get if you bump into something or if something hits you.
 
 9. swell: V-I If something such as a part of your body swells, it becomes larger and rounder than normal. (身体部位等) 肿胀
-          n. 膨胀；肿胀
- 
+          n. 膨胀；肿胀 
 ---
 
 Phoebe: Wait, does he eat chalk?
 
 (They all stare, bemused.)
+
 ---
+
 10. bemuse: ADJ If you are bemused, you are puzzled or confused.
+
 ---
 
 Phoebe: Just, 'cause, I don't want her to go through what I went through with Carl- oh!
@@ -48,6 +52,7 @@ Phoebe: Just, 'cause, I don't want her to go through what I went through with Ca
 11. 'cause: CONJ 'Cause is an informal way of saying . (because)的非正式表达 [口语]
 
 12. go through: PHRASAL VERB If you go through an experience or a period of time, especially an unpleasant or difficult one, you experience it. 经历 (尤为艰难时期)
+
 ---
 
 Monica: Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.
@@ -55,12 +60,15 @@ Monica: Okay, everybody relax. This is not even a date. It's just two people goi
 Chandler: Sounds like a date to me.
 
 [Time Lapse]
+
 ---
+
 13. lapse: N-SING A lapse of time is a period that is long enough for a situation to change or for people to have a different opinion about it. (时间的) 间隔
 
 14. N-SING: 单数名词
 
 15. time lapse: 定时拍摄，时间流逝
+
 ---
 
 Chandler: Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked.
