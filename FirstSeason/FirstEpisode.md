@@ -10,9 +10,8 @@ Monica: There's nothing to tell! He's just some guy I work with!
 
 Joey: C'mon, you're going out with the guy! There's gotta be something wrong with him!
 ~~~
-1. <span style="color:red">C'mon</span>: 
-   * contract word of 'Come on';
-   * CONVENTION You say `Come on' to someone to encourage them to do something they do not want to do
+1. C'mon: contract word of 'Come on';
+          CONVENTION You say `Come on' to someone to encourage them to do something they do not want to do
 
 2. PHRASAL VERB If you go out with someone, the two of you spend time together socially, and have a romantic or sexual relationship. (与某人) 恋爱
 
